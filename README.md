@@ -1,1 +1,1 @@
-# symulacje_firma
+Symulacja firmy ubezpieczeniowej.
