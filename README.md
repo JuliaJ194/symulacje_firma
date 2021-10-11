@@ -1,1 +1,2 @@
-Symulacja firmy ubezpieczeniowej.
+Symulacja firmy ubezpieczeniowej napisana w pythonie.
+
